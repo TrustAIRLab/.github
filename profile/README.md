@@ -1,4 +1,4 @@
-<img src="figure/TrustAIRLab.png" alt="image" width="1000" height="auto" class="center">
+<img src="https://github.com/TrustAIRLab/.github/blob/main/profile/figure/TrustAIRLab.png" width="1000" height="auto" class="center">
 
 
 <img src="https://badges.toozhao.com/badges/01HQJPNWX610CVTK56RN29Y2FH/blue.svg" /> ![GitHub Org's stars](https://img.shields.io/github/stars/TrustAIRLab)
